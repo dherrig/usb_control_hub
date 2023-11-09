@@ -4,6 +4,8 @@ This project implements a basic command-line tool for controlling
 the [USB Control Hub](https://pegasusastro.com/products/usb-control-hub/) made 
 by [Pegasus Astro](https://pegasusastro.com/). The script is written in python3 and intended for Linux.
 
+![Pegasus Astro USB Control Hub](./uch1-600x327.png)
+
 The USB Control Hub is a USB 3.1 SuperSpeed (5Gbps) hub with six USB3 type-A downstream facing ports (DFPs) and one USB3 type-B host (UFP) port. A serial control interface allows each of the six type-A ports to be independently switched on/off (power and data) through software. This software control is handy for any usage where you would otherwise reguarly need to unplug and replug USB cables.
 
 ## Features
