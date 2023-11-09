@@ -17,13 +17,6 @@
 
 https://pegasusastro.com/products/usb-control-hub/
 Only compatible with linux.
-
-todo:
-* write a readme
-* add feature to label ports, print labels, and save/load in file
-* cross-compatility
-  * replace /var/lock/uchserial with different mutex file for other OS
-  * replace fcntl for other OS
 """
 
 import argparse
