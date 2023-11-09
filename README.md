@@ -1,4 +1,4 @@
-# Pegasus Astro USB Control Hub (UCH)
+# Python3 script for Pegasus Astro USB Control Hub
 
 This project implements a basic command-line tool for controlling 
 the [USB Control Hub](https://pegasusastro.com/products/usb-control-hub/) made 
