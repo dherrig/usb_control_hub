@@ -47,7 +47,7 @@ python3 uch.py -h
 python3 uch.py --port /dev/ttyUSB0 --list
 ```
 
-**Get the on/off status of a downstream port number 3**
+**Get the on/off status of downstream port number 3**
 ```
 python3 uch.py --port /dev/ttyUSB0 3
 ```
